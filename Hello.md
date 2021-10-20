@@ -1,1 +1,3 @@
-1 clone
+# Basics of git
+
+1. clone
